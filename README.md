@@ -44,5 +44,3 @@ Relational integrity is maintained via primary and foreign key constraints.
 - How do sales fluctuate over time?
 
 ---
-
-## 📁 Folder Structure
